@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/101718/d729dda6f6784fe1b635b163d704aed9
+url: http://rpubs.com/huangyuan2000/101718
+when: 1440021478.99063
